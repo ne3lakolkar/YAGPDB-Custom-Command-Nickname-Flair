@@ -1,0 +1,12 @@
+{{$m := .Member}}
+{{if gt (len $m.Nick) 27}}
+**Your nickname is currently longer than 27 chars and a flair cannot be added. Please request a shorter nickname to receive Euro Flair**
+{{else}}
+{{$removeNickname := reReplace `\A\[.{3}\]\s?` .Member.Nick ""}}
+{{$msg := (upper .StrippedMsg)}}
+{{if eq $msg "ENG" "ESP" "GER" "TUR" "ITA" "WAL" "SUI" "DEN" "FIN" "BEL" "RUS" "NED" "UKR" "AUT" "MKD" "CRO" "SCO" "CZE" "SWE" "POL" "SVK" "HUN" "POR" "FRA"}}
+{{editNickname (print "[" $msg "] " (or $removeNickname .User.Username))}}
+{{else}}
+**ENTER A VALID TEAM NAME - CHECK PINS FOR MORE HELP**
+{{end}}
+{{end}}
