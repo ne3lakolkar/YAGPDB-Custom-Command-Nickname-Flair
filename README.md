@@ -63,7 +63,7 @@ Head over to YAGPDB Bot console and try it out yourself!
 
 Thank you.
 
-## Misc.
+## Misc./Extras
 I personally developed this project for Chelsea Football Club Official Discord Server Community. National Football is on horizon and members from the same club now start supporting their favourite countries. To classify and make the engagement among these international football rivals, flairs was introduced. 
 It was implemented just before the tournament started. Hence the bot command notched a huge response.
 
