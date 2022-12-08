@@ -5,7 +5,7 @@ Desc: Custom bot commands designed for YAGPDB Discord bot for adding customizabl
 
 ## Source code
 
-Source code contains the command code and the expected response. 
+[Source Code](https://github.com/ne3lakolkar/YAGPDB-Custom-Command-Nickname-Flair/blob/main/Command%20Source%20Code) contains the command code and the expected response. 
 
 
 # Implementation
@@ -59,5 +59,8 @@ Thank you.
 
 ## Misc.
 I personally developed this project for Chelsea Football Club Official Discord Server Community. National Football is on horizon and members from the same club now start supporting their favourite countries. To classify and make the engagement among these international football rivals, flairs was introduced. 
-It was implemented just before the tournament started. Hence the bot command notched a huge response. 
+It was implemented just before the tournament started. Hence the bot command notched a huge response.
+
+Feel free to join the community on discord by https://discord.gg/chelseafc
+ 
 ![response](https://github.com/ne3lakolkar/YAGPDB-Custom-Command-Nickname-Flair/blob/01c8e40729dfdf5e1333ec9a9e797ea22294e139/Resources/Screenshot%202022-12-08%20123116.png)
