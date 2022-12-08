@@ -2,6 +2,6 @@
 Custom command code for YAGPDB Bot to add flairs to the user's nickname. 
 For example
 ```
--flair GER
-[GER] ne3lakolkar
+*System Input* : -flair GER
+*System Response* : [GER] ne3lakolkar
 ```
