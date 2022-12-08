@@ -7,6 +7,12 @@ Desc: Custom bot commands designed for YAGPDB Discord bot for adding customizabl
 
 [Source Code](https://github.com/ne3lakolkar/YAGPDB-Custom-Command-Nickname-Flair/blob/main/Command%20Source%20Code) contains the command code and the expected response. 
 
+# Work Environment
+[YAGPDB (Yet Another General Purpose Discord Bot)](https://yagpdb.xyz) is a advanced configurable discord bot providing a load of useful features for help with managing a server.
+It supports custom commands feature to create customizable shortcuts and automations. 
+Custom command info.: 
+
+![response](https://github.com/ne3lakolkar/YAGPDB-Custom-Command-Nickname-Flair/blob/main/Resources/Screenshot%202022-12-08%20125714.png)
 
 # Implementation
 
